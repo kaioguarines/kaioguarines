@@ -2,19 +2,19 @@
 
 **`Java Backend Developer`**
 
-Estudante de Análise e Desenvolvimento de Sistemas, focado no desenvolvimento Backend com Java. Atualmente aprofundando meus conhecimentos em Java, Programação Orientada a Objetos, APIs RESTful e Spring Boot, colocando meus estudos em prática através de projetos e exercícios. Busco minha primeira oportunidade na área de desenvolvimento de software para aplicar meus conhecimentos, aprender com projetos reais e evoluir continuamente como desenvolvedor.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend utilizando Java. Atualmente aprofundando meus conhecimentos em Programação Orientada a Objetos, desenvolvimento de APIs RESTful e Spring Boot, transformando meus estudos em projetos práticos e mantendo uma evolução constante através da prática. Em busca da minha primeira oportunidade profissional em desenvolvimento de software, onde possa aplicar meus conhecimentos, contribuir com a equipe e evoluir através de experiências reais.
 
 ---
 
 ### 🧰 Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="28" />
 </p>
+
 
 
 Atualmente estudando
