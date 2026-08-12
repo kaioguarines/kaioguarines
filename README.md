@@ -1,13 +1,17 @@
-Olá! Eu sou Kaio Guarines
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Java em formação
+# Kaio Guarines
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado no desenvolvimento backend com Java.
+**`Java Backend Developer`**
 
-Estou construindo minha base através de estudos práticos, exercícios e projetos, com foco em Programação Orientada a Objetos, boas práticas de código e desenvolvimento de aplicações.
+Estudante de Análise e Desenvolvimento de Sistemas, focado no desenvolvimento Backend com Java. Atualmente aprofundando meus conhecimentos em Java, Programação Orientada a Objetos, APIs RESTful e Spring Boot, colocando meus estudos em prática através de projetos e exercícios. Busco minha primeira oportunidade na área de desenvolvimento de software para aplicar meus conhecimentos, aprender com projetos reais e evoluir continuamente como desenvolvedor.
 
-Tecnologias e Ferramentas
+---
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,git,github,idea" /> </p>
+### 🧰 Linguagens e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,idea" />
+</p>
+
 
 Atualmente estudando
 ☕ Java
