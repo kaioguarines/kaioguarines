@@ -21,7 +21,7 @@ JavaCursoPoo
 
 Repositório dedicado aos meus estudos de Java e Programação Orientada a Objetos, contendo exercícios e práticas desenvolvidas durante minha evolução.
 
-🔗 Acessar repositório
+🔗 [Acessar repositório JavaCursoPoo](https://github.com/kaioguarines/JavaCursoPoo)
 
 Objetivo
 
