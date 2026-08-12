@@ -9,7 +9,11 @@ Estudante de Análise e Desenvolvimento de Sistemas, focado no desenvolvimento B
 ### 🧰 Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,idea" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
 
