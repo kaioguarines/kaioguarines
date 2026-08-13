@@ -25,7 +25,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento
 
 ### 📂 Projetos em Destaque
 
-#### 🔗 [Projetos JavaCursoPoo](https://github.com/KaioGuarines)
+#### 🔗 [Projetos JavaCursoPoo](https://github.com/kaioguarines/JavaCursoPoo)
 Repositório dedicado aos meus estudos de Java e Programação Orientada a Objetos, contendo exercícios e práticas desenvolvidas durante minha evolução.
 
 ---
@@ -38,10 +38,10 @@ Atualmente estou buscando minha primeira oportunidade de estágio em desenvolvim
 ### 📬 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/kaio-guarines-059986320/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@email.com">
+  <a href="mailto:kaioguarines14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
